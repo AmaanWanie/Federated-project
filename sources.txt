@@ -1,0 +1,17 @@
+https://github.com/yonetaniryo/federated_learning_pytorch
+
+size hospital_1:
+  ->covid-1205
+  ->lung-2004
+  ->normal-3398
+  ->viral-447
+size hospital_2:
+  ->covid-1177
+  ->lung-2004
+  ->normal-3397
+  ->viral-446
+size hospital_3:
+  ->covid-1188
+  ->lung-2004
+  ->normal-3396
+  ->viral-445
